@@ -12,8 +12,13 @@ Marketing Digital;
 Música (teclado\orgão);
 Espanhol.
 
-```markdown
-Syntax highlighted code block
+### Hobbies:
+
+**Desenho:** gosto de desenhar e sempre quiz aprimorara,poís,apenas consigo desenhar visualmente,quero desenhar apartir da minha criatividade e imaginação.
+-Anseio_ ter um curso completo e possa me monstrar várias direções diferentes e por fim descobrir novas criações.
+
+**Pintura:**
+fotoshop,artesã 
 
 # Header 1
 ## Header 2
