@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+# Yasmin Guerreiro dos Santos
 
-You can use the [editor on GitHub](https://github.com/yasmin364/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Sobre mim
+Olá, meu sou a Yasmin!
+Sou representante e revendo Natura,masculino/feminino e para ambus.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
