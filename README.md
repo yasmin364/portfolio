@@ -1,27 +1,27 @@
 # `Yasmin Guerreiro dos Santos`
 
-### Sobre mim
+### `Sobre mim`
 Olá, meu sou a Yasmin!
 Sou representante e revendo **Natura**,masculino/feminino e para ambus.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Meus cursos:
+### `Meus cursos:`
 
 Marketing Digital;
 Música (teclado\orgão);
 Espanhol.
 
-### Hobbies:
+### `Hobbies:`
 
 **Desenho:** gosto de desenhar e sempre quiz aprimorara,poís,apenas consigo desenhar visualmente,quero desenhar apartir da minha criatividade e imaginação.
 _Anseio_ ter um curso completo e possa me monstrar várias direções diferentes e por fim descobrir novas criações.
 
-**Fotoshop:** 
+**Desenho Digital:** gosto de modificação, mexo um pouco,mas quero aprofundar.
 
 
 
-- Bulleted
+### `Cursos desejados:`
 - List
 
 1. Numbered
